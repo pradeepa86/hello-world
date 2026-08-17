@@ -1,2 +1,2 @@
 # hello-world
-just another sample repository 
+This is sample change for my first pull request

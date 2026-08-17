@@ -1,2 +1,2 @@
 # hello-world
-This is sample change for my first pull request
+sample 2 for pull request
